@@ -7,7 +7,7 @@
 ```
 <repositories>
   <repository>
-    <id>mongodb-dbobject-embedder</id>
+    <id>ehanlinMaven</id>
     <url>http://dl.bintray.com/ehanlin/maven</url>
   </repository>
 </repositories>
